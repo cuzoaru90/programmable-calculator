@@ -1,0 +1,14 @@
+x =   8.
+x=logx
+y = x - z.
+z    =  x**x.
+z = z / y.
+y = y  *  y.
+x =  z + x.
+z = y/ z.
+x = x + x.
+z  = x/z.
+y = z * y.
+x = z - x.
+z = y ** y.
+y = log   y.
